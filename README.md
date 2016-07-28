@@ -1,2 +1,2 @@
 # test
-used to test scripts
+Used to test scripts.
